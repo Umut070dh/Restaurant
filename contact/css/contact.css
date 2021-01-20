@@ -73,5 +73,38 @@ body{background-image:url("../../../../Restaurant/menu/images/mexicaans restaura
 body {background-repeat: no-repeat }
 body {background-size: cover}
 
+body {
+    font-size: 1.2rem;
+    width: 100vw;
+        }
+        
+     
+    table, form, header {
+    width: 90vw;
+    margin: auto;
+        }
+     
+    td {
+    padding: 0,2vh;
+        }
+     
+    input {
+    width: 30vw;
+    height: 5vh;
+    font-size: 1.2rem;
+    border: 0,5px solid white;
+    border-radius: 10px;
+    background-color: white;
+    color: white;
+    text-align: center;
+        }
+     
+    .item-button {
+    width: 15vw;
+    background-color:white;
+    color: white;
+    left:8vw;
+        }
+    
 
 
