@@ -10,7 +10,6 @@
       color: white;
 	  top:25vh;
 	  left:25vw;
-	  background: red;
       text-align: center;
       margin:auto;
       font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
@@ -69,7 +68,7 @@ h1{
     left: 3vw;top: 6vh
 }
 
-body{background-image:url("../../../../Restaurant/menu/images/mexicaans restaurant.jpg")}
+body{background-image:url("../img/mexicaans\ restaurant.jpg")}
 body {background-repeat: no-repeat }
 body {background-size: cover}
 
@@ -80,7 +79,7 @@ body {
         
      
     table, form, header {
-    width: 90vw;
+    width: 60vw;
     margin: auto;
         }
      
@@ -91,19 +90,18 @@ body {
     input {
     width: 30vw;
     height: 5vh;
-    font-size: 1.2rem;
+    font-size: 1rem;
     border: 0,5px solid white;
     border-radius: 10px;
     background-color: white;
-    color: white;
+    color:black;
     text-align: center;
         }
      
     .item-button {
     width: 15vw;
     background-color:white;
-    color: white;
-    left:8vw;
+    color: black;
         }
     
 
